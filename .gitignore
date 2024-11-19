@@ -1,4 +1,7 @@
 # GIT Ignore file's
 
-file.txt
+*.txt
 
+*.sh
+
+terraform/
